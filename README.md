@@ -22,8 +22,7 @@ The retrieved results are then used to **augment an LLM**, grounding its respons
 
 - 🧩 **Hybrid Retrieval:** Combine BM25 and vector-based search for improved accuracy  
 - 🤖 **RAG Integration:** Feed retrieved context into a large language model  
-- ⚡ **Modular Components:** Plug-and-play retrievers, embeddings, and LLMs  
-- 📊 **Evaluation Metrics:** Precision@k, Recall@k, and MRR included  
+- ⚡ **Modular Components:** Plug-and-play retrievers, embeddings, and LLMs    
 - ☁️ **Extensible:** Works with local embeddings or cloud-based vector databases  
 
 ---
