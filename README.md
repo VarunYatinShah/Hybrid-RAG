@@ -17,7 +17,8 @@ This project implements a **hybrid retrieval strategy** that merges the strength
 The retrieved results are then used to **augment an LLM**, grounding its responses in factual and contextually relevant data.
 
 ---
-<img width="1379" height="721" alt="download (22)" src="https://github.com/user-attachments/assets/379befc4-e5ef-4ca8-a3c7-7ca179f59859" />
+<img width="879" height="493" alt="Screenshot 2025-10-28 054024" src="https://github.com/user-attachments/assets/fef14825-992f-4123-ad6f-f20b9ce3f837" />
+
 
 ## 🚀 Features
 
